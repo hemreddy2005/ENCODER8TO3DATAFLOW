@@ -62,12 +62,12 @@ Developed by: HEMANTH KUMAR R RegisterNumber:212223040065
     
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![image](https://github.com/user-attachments/assets/a1764fde-4c26-4f8b-8d96-5e29aee3be4f)
+![image](https://github.com/user-attachments/assets/1a2747a3-39fd-4afb-8b2b-8a307a6483f4)
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![image](https://github.com/user-attachments/assets/b9387d7c-b3a1-47b5-b23e-5725c8a159c8)
+![image](https://github.com/user-attachments/assets/dd968fd1-e473-4e71-a65b-64930e33a9c7)
 
 
 **RESULTS**
