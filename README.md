@@ -71,10 +71,6 @@ Developed by: HEMANTH KUMAR R RegisterNumber:212223040065
 
 
 **RESULTS**
+
 Thus the Encoder 8 To 3 in Dataflow Modelling using verilog are verified and the logic diagrams are designed and the truth table is verified.
-
-
-
-
-
 
